@@ -7,10 +7,7 @@ import {
 import { WagmiProvider } from 'wagmi';
 import {
 	mainnet,
-	polygon,
-	optimism,
 	arbitrum,
-	base,
 	sepolia
 } from 'wagmi/chains';
 import {
